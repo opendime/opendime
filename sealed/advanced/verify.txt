@@ -1,0 +1,11 @@
+-----BEGIN BITCOIN SIGNED MESSAGE-----
+Nonce: 6f54d93e473b01c423535c1b  Serial: I6RKFFSUJVGVCIBAEBDRAJQE74
+Version: 1.0.0 time=20160419.100420 git=master@176ffb4 INSECURE=1
+-----BEGIN SIGNATURE-----
+18yLkW55iE6BJ5tTZzUFsXHbmALDt78E63
+HN0aeQMF01dAjhi9FQVbSH5kaJdxTn4l8w237HsStCH8/ot6HB63t3AR3M8nFIEWWtt2BMLp5AZQGeJO0zj1XlA=
+-----END BITCOIN SIGNED MESSAGE-----
+
+
+                                                                    
+                                                                    
