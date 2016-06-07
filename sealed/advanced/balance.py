@@ -21,5 +21,5 @@
 # You may inspect the code by unzipping support/pycode.zip 
 # It makes heavy use of pycoin, which it downloads before running.
 #
-import os, sys; sys.path.insert(0, __file__ + '/../../support/pycode.zip'.replace('/', os.sep))
+import os, sys; sys.path.insert(0, os.path.normpath(__file__ + '/../../support/pycode.zip'))
 import pycode.od_wallet; pycode.od_wallet.main()

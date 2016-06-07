@@ -2,11 +2,11 @@
 from __future__ import print_function
 from binascii import a2b_hex
 
-ADDRESS         = '18yLkW55iE6BJ5tTZzUFsXHbmALDt78E63   '.strip()
-PRIVKEY         = '5KXmefQ3eYGuYWHgo2H15qNYiSCRDjmgmBFGT9wTLGT4cdhoTau'.strip()
-OD_NONCE        = a2b_hex('e7ab34cb6b884351bc0cdf7bed921072c1137e44328688ccde3e3017299f8501')
-SECRET_EXPONENT = a2b_hex('e1e3f542d296c29117f1d6876eee021d66835090c992495b1fd9a856878c5ced')
-CHIP_SERIAL     = b'I6RKFFSUJVGVCIBAEBDRAJQE74'
+ADDRESS         = '163mftuehocF5LDo39Z9uW89tJj2Gsc9LP   '.strip()
+PRIVKEY         = '5J7JYnniDsmoziUkyUkKXE2jGi5bvrx1k41dmD8uaDRyHKSK6mi'.strip()
+OD_NONCE        = a2b_hex('38df1e280493f0be25b698d08919068a10e50b833768f7923fe5cd56cf70fdaf')
+SECRET_EXPONENT = a2b_hex('26a371994ff551ac7d2e32eab33fd72a47ac8991d1ef95387537bbe52c4132ee')
+CHIP_SERIAL     = b'F5FVPFKZGVGVCIBAEA2QUGIM74'
 
 # The above numbers can be used to prove we picked the private key using
 # an algorithm that did include the entropy values your provided, and therefore

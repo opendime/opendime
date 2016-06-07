@@ -1,3 +1,3 @@
-1.0.0 time=20160419.100420 git=master@176ffb4
+1.1.0 time=20160607.113719 git=master@0ebb09e
 
-                         
+                                    

@@ -42,11 +42,25 @@ but you would need to know where it's mounted. The file name used
 (entro.bin in above example) does not matter.
 
 
-Flashing Red Lights?
---------------------
+Lots of Flashing Red Lights?
+----------------------------
 
 If the seal on the Opendime is broken before we pick a private key,
 it will stay in this failed state, but flash the red and green
-lights quickly. Do not break the seal until **AFTER** the private
-key has been picked, and funds loaded onto the Bitcoin address.
+lights quickly. Next time, do not break the seal until **AFTER**
+the private key has been picked, and funds loaded onto the Bitcoin
+address.
+
+
+Legal Notice
+------------
+
+By purchasing, using or continuing to use the Opendime USB stick,
+you, the purchaser of the Product, agree to be bound by the terms
+of sale and use:
+
+    support/terms.txt
+
+    https://opendime.com/legal
+
 

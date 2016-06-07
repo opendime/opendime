@@ -8,6 +8,9 @@ a {
   color:#e1645f;
   text-decoration:none;
 }
+h1 {
+  margin: 2em 0 .40em;
+}
 h2 > small {
     color:#e1645f;
     font-size: 60%;
@@ -114,4 +117,20 @@ code{
   white-space: nowrap;
   padding: 2px 4px;
   text-align:center;
+}
+.lang-picker {
+  text-align:center;
+  border-bottom: 1px dashed #B7B7B7;
+  padding-bottom: 10px;
+  color:#B7B7B7;
+  font-size:.9em;
+  text-rendering: optimizeLegibility;
+}
+.lang-picker a{
+  color:#B7B7B7;
+  padding:0 5px;
+}
+.lang-picker button {
+  width: 7em;
+  height: 4ex;
 }

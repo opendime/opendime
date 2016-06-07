@@ -49,7 +49,7 @@ Lights will flash as follows:
 - Red and green alternating: 
     UNSEALED. Private key has been revealed.
 
-- Green light only (solid):
+- Green solid, brief flash of red:
     Not yet loaded with enough entropy (setup time).
 
 - Green flashing (fast):
@@ -88,4 +88,18 @@ The 'private-key.txt' file will be useless until the device is
 Other files are not affected by unsealing.
 
 Everything is read-only! You can't change any files on this drive.
+
+
+
+Legal Notice
+------------
+
+By purchasing, using or continuing to use the Opendime USB stick,
+you, the purchaser of the Product, agree to be bound by the terms
+of sale and use:
+
+    support/terms.txt
+
+    https://opendime.com/legal
+
 

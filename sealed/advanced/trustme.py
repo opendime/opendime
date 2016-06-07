@@ -8,22 +8,30 @@
 #   python trustme.py
 #
 #
-# Since this code is running from the Opendime in question, it is
-# somewhat questionable to trust what it says. It's better to use
-# code from a trusted source to verify an Opendime. Of course, that
-# can be the code on another Opendime that you know is good. To
-# test between two units, provide path to the *other* as the argument:
+# Since this code is running from inside the Opendime it is verfying,
+# it is somewhat questionable to trust what it says. It's better to use
+# code from a trusted source to verify an Opendime. That can be the
+# code on another Opendime that you know is good. To test between
+# two units, provide path to the *other* as the argument:
 #
 #   python trustme.py /Volumes/OPENDIME\ 2
 #
-#   python trustme.py G:
+#   python trustme.py G:\
 #
-# IMPORTANT: An Internet connection is required, and your privacy
-# may be impacted by these network connections, and/or third party
-# services.
+# IMPORTANT: 
 #
-# You may inspect the code by unzipping support/pycode.zip 
-# It makes heavy use of pycoin, which it downloads before running.
+# - An Internet connection is required (to fetch pycoin), but your
+#   privacy should not be impacted because the payment address and
+#   other details specific to this Opendime are not sent over the network
+#   and all tests are completely local.
 #
-import os, sys; sys.path.insert(0, __file__ + '/../../support/pycode.zip'.replace('/', os.sep))
+# - If you have libusb and PyUSB installed, additional checks
+#   will be performed. On MacOS, try install with:
+#
+#       brew install libusb ; pip install PyUSB
+#
+# - You may inspect the code by unzipping support/pycode.zip 
+#   It makes heavy use of pycoin, which it downloads before running.
+#
+import os, sys; sys.path.insert(0, os.path.normpath(__file__ + '/../../support/pycode.zip'))
 import pycode.trust_me; pycode.trust_me.main()
