@@ -11,16 +11,17 @@ opensource code we provide.
 
 There are three states for an Opendime:
 
-1) **New unit** (does not have a bitcoin address yet)
-2) **Sealed** (normal; has a payment address)
-2) **Un-Sealed** (private key is revealed; sweep your funds)
+- **New unit** (does not have a bitcoin address yet)
+- **Sealed** (normal; has a payment address)
+- **Un-Sealed** (private key is revealed; sweep your funds)
 
 
 ## How to view?
 
-Clone this repo and then `cd new`. That's exactly what you would
-see on the Opendime when you first plug it in. On MacOS, this would
-be exactly the contents of `/Volumes/OPENDIME`.
+Clone this repo and look in the `new` directory. That's exactly
+what you would see on the Opendime when you first plug it in. For
+example, on MacOS, this would be exactly the contents of
+`/Volumes/OPENDIME`.
 
 In this example, we copied `entropy.bin` onto the drive to help it pick a random
 private key. Once that's done, the disk drive will look like `sealed` and that's
@@ -35,19 +36,18 @@ entropy file, you can verify we picked the private key in the manner we asserted
 
 To prove we are using the algorithm we claim, perform these steps:
 
-```bash
+```
 pip install pycoin
 cd unsealed/advanced
 python rngverify.py ../../entropy.bin
 ```
 
-
 Of course, you should also contemplate the python
-code in [`rngverify.py`](blob/master/unsealed/advanced/rngverify.py)
+code in `[rngverify.py](unsealed/advanced/rngverify.py)`
 ... but it's pretty simple and only 75 lines.
 
 
 ## What else is there to see?
 
-You can unzip the `support/pycode.py` code to see the simple balance
-check and spending code.
+You can unzip `support/pycode.zip` file to see the simple balance
+check and spending code, written in python.
