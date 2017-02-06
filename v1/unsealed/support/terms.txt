@@ -1,0 +1,375 @@
+Terms of Sale and Use
+=====================
+
+By purchasing, using or continuing to use Opendime(TM) USB stick (the
+"Product"), you, the purchaser of the Product, agree to be bound
+by these terms of sale and use (the "Terms").
+
+1.      Product Orders and Shipment. You may order Products through
+our website (https://opendime.com/). No order, offer, sale, or other
+terms that you submit in any manner in connection with any order
+will be binding on us and you and you agree that the terms applicable
+to each such order are set out exclusively in these Terms. We may
+accept such order by confirmation through our website or by processing
+the shipment for such order. If we do not have any available
+inventory, we will place it on backorder and advise you through our
+website. We ship all Products EXW (Incoterms 2010) from our or our
+service providers' offices or facilities as determined by the
+shipping destination. Except to the extent prohibited by applicable
+law, all sales of Products are final and Products may not be returned
+or exchanged.
+
+2.      Quebec Residents. At present, Products are not offered to
+persons domiciled in Quebec. Consequently, if you are domiciled in
+Quebec, you cannot purchase the Products. We cannot ship Products
+to Quebec addresses.
+
+3.      Software. Products include certain software and firmware
+(the "Software"). By purchasing Products, you are not purchasing
+Software and do not receive any right, title or interest in or to
+Software other the limited rights of use expressly set out in these
+Terms. Subject to these Terms, we grant you a limited, non-exclusive,
+non-transferable (subject to Section 6), non-sublicensable license
+to use Software solely for your own business or personal use, and
+solely in connection with your use of the Product in which they
+have been included.
+
+4.      Use of Products. The Products include functionality to store
+and facilitate the transfer of bitcoin and other similar cryptocurrencies
+which we choose in our sole discretion to support from time to time
+("Coins") and which may be used to facilitate various types of
+transactions and other activities ("Transactions"). You understand
+and agree that we are not responsible for, and have no obligation
+or liability to you or others in respect of any Transactions. You
+agree to comply with all applicable laws in your use of Products
+(including all Transactions), including without limitation any
+anti-money laundering laws or regulations.
+
+5.      Transfer of Products. You may transfer or sell Products to
+others on the condition that you ensure that the transferee or
+purchaser agrees to be bound by the then-current form of these Terms
+available on our website at the time of transfer.
+
+6.      Restrictions. You shall not: (a) except as expressly permitted
+herein, reproduce, duplicate, copy, disclose, sell, resell, sublicense,
+distribute, assign, transfer, give away, loan, lend, lease, publish,
+pledge or create a security interest in the Software or use the
+Software other than in connection with the Product on which it is
+included; (b) modify, port, adapt, translate, reverse engineer,
+unbundle, repackage, decompile, disassemble or convert into human
+readable form any part of the Product or Software or create derivative
+works based on, or any competitive or emulating software, service
+or solution using, any Product or Software; (c) use any Product or
+Software in a manner or for a purpose that: (i) is illegal or
+otherwise contravenes applicable law (including the facilitation
+or furtherance of any criminal or fraudulent activity or the violation
+of any anti-money laundering legislation); or (ii) infringes upon
+the lawful rights of others; (d) interfere with the security or
+integrity of the Product or Software; (e) remove, destroy, cover,
+obfuscate or alter in any manner any notices, legends, trademarks,
+branding or logos appearing on or contained in any Product or
+Software; or (f) attempt, or cause, permit or encourage any other
+person, to do any of the foregoing. Notwithstanding the foregoing,
+you may investigate security and other vulnerabilities, provided
+you do so in a reasonable and responsible manner in compliance with
+applicable law and our responsible disclosure policy and otherwise
+use good faith efforts to minimize or avoid contravention of any
+of the foregoing.
+
+7.      Representations and Warranties. You represent, warrant and
+covenant that: (a) you have the capacity to, and are and will be
+free to, enter into and to fully perform your obligations under
+these Terms and that no agreement or understanding with any other
+person exists or will exist which would interfere with such
+obligations; and (b) these Terms constitute a legal, valid and
+binding obligation upon you.
+
+8.      Prices and Payment. Prices are as set out on our website
+at the time we receive a firm, irrevocable order from you through
+our website or through other means we may establish from time to
+time. The total purchase price for Products, including all applicable
+shipping, handling, delivery and other charges and all applicable
+taxes must be pre-paid at the time you submit your order. All amounts
+paid or payable are non-refundable and shall be paid without
+deduction, setoff or counterclaim. All prices, quotations, confirmations
+and invoices are subject to exclusions or cancellation for clerical,
+typographic and similar errors and omissions.
+
+9.      Taxes. All prices on our price list are exclusive of
+applicable taxes and you will pay or reimburse us for all applicable
+taxes, duties, levies or assessments that may be assessed in any
+jurisdiction, whether based on the amounts paid or payable or the
+supply of Products to you or otherwise. If you wish to claim an
+exemption from same, you must furnish to us a tax exemption certificate
+acceptable to the applicable taxing authority.
+
+10.     Ownership. Except for the limited rights of use expressly
+granted to you under these Terms, all right, title and interest
+(including all copyrights, trademarks, service marks, patents,
+inventions, trade secrets, intellectual property rights and other
+proprietary rights) in and to the Software are and shall remain
+exclusively owned by us and our licensors. All trade names, company
+names, trademarks, service marks and other names and logos are the
+proprietary marks of us or our licensors, and are protected by law
+and may not be copied, imitated or used, in whole or in part, without
+the consent of their respective owners. These Terms do not grant
+you any rights in respect of any such marks. You understand and
+agree that any feedback, input, suggestions, recommendations,
+improvements, changes, specifications, test results, or other data
+or information that you provide or make available to us arising
+from or related to your use of the Products or Software shall become
+our exclusive property and may be used by us to modify, enhance,
+maintain and improve the Products or Software without any obligation
+or payment to you whatsoever.
+
+11.     Third Party Products. You acknowledge and agree that you
+will require certain third party equipment, products, software and
+services in order to use the Products and may also use optional
+third party equipment, products, software and services that enhance
+or complement such use (collectively, "Third Party Products"). You
+acknowledge and agree that failure to use or procure Third Party
+Products that meet the minimum requirements for Products, or failure
+to properly configure or setup Third Party Products may result in
+the inability to use the Products and/or processing failures or
+errors. Third Party Products include, without limitation, computers,
+mobile devices, networking equipment, operating system software,
+web browsers and internet connectivity. We may also identify,
+recommend, reference or link to optional Third Party Products in
+the Products or our website. You acknowledge and agree that: (a)
+Third Party Products are be governed by separate licenses, agreements
+or terms and conditions and we have no obligation or liability to
+you in respect thereof; and (b) you are solely responsible for
+procuring any Third Party Products at your cost and expense, and
+are solely responsible for compliance with any applicable licenses,
+agreements or terms and conditions governing same.
+
+12.     Confidentiality. You acknowledge that any unauthorized
+disclosure of our confidential information to third parties may
+cause immediate and irreparable harm to us. Consequently, you agree
+to take all reasonable steps to maintain the confidentiality of the
+Product and Software, and shall not, without our prior written
+consent, disclose, or make them available in any form to any other
+person, except to the extent reasonably required for the use or
+transfer of the Product in accordance with these Terms. We reserve
+the right to disclose information about you to the extent we are
+required to do so by applicable law, lawful authorities or by a
+court of competent jurisdiction.
+
+13.     Privacy. You understand and agree that any personal information
+provided to us will be governed by our privacy policy (the "Privacy
+Policy"). The Privacy Policy is available through our website and
+forms an integral part of these Terms.
+
+14.     Security. You understand and agree that control and access
+to Coins stored on any Product is based upon physical possession
+and control of such Product and that any person given physical
+possession of the Product may remove or transfer any or all Coins
+stored on such Product.
+
+15.     Warranty Disclaimer. You acknowledge and agree that your
+use of Products is at your sole risk and that they are sold on an
+"as-is" basis. To the maximum extent permitted by applicable law,
+we disclaim all representations, warranties and conditions regarding
+the Products or your use thereof, including without limitation any
+warranties or conditions of merchantability, merchantable quality,
+durability, fitness for a particular purpose, non-infringement,
+title, quiet enjoyment or quiet possession and those arising by
+statute or in law, or from a course of dealing or usage of trade.
+We cannot and do not warrant that the Products will meet your
+requirements or expectations, will operate without interruptions,
+that they will be error-free, virus-free, that the results obtained
+from their use will be timely, accurate, reliable or current or
+that any or all deficiencies can be found or corrected. We do not
+warrant that the Products or Software will not breach or infringe
+applicable laws outside of Canada or the proprietary rights (including
+patent, copyright, trade mark, or trade secret rights) of any third
+party. We shall not be liable, and assume no responsibility, for
+any loss or damages arising from or in connection with: (a) any
+access, inability to access, delay, fault or failure of the Products
+or Software resulting directly or indirectly from your or any public,
+peer to peer or third party hardware, software, service, service
+provider, network, information, user or computing resource; (b)
+unauthorized access to or alteration, theft, loss, corruption or
+destruction of Products; or (c) any act or omission of any third
+party. We cannot represent or warrant that Products will be secure
+at all times. If you use Products outside of Canada, you acknowledge
+and agree that you are solely responsible for ensuring that such
+use is permitted by applicable law in your jurisdiction.
+
+16.     Acknowledgement of Risk. You understand and agree that: (a)
+there are risks associated with the use and holding of Coins and
+you represent and warrant that you are knowledgeable and/or experienced
+in matters relating to the use of Coins and are capable of evaluating
+the benefits and risks of using and holding Coins and fully understand
+the nature of Coins, the limitations and restrictions on their
+liquidity and transferability and are capable of bearing the economic
+risk of holding and transacting using Coins; (b) the continued
+ability to use Coins is dependent on many elements beyond our
+control, including without limitation the publication of blocks,
+network connectivity, hacking or changes in the technical and other
+standards, policies and procedures applicable to Coins; (c) no
+regulatory authority has reviewed or passed on the merits, legality
+or fungibility of Coins; (d) there is no government or other insurance
+covering Coins, the loss or theft of Coins, or any loss in the value
+of Coins; (e) the use of Coins or the Products may become subject
+to regulatory controls that limit, restrict, prohibit or otherwise
+impose conditions on your use of same; (f) Coins do not constitute
+a currency, asset, security, negotiable instrument, or other form
+of property and do not have any intrinsic or inherent value; (g)
+the value of and/or exchange rates for Coins may fluctuate significantly
+and may result in you incurring significant losses; (h) Transactions
+may have tax consequences (including obligations to report, collect
+or remit taxes) and you are solely responsible for understanding
+and complying with all applicable tax laws and regulations; and (i)
+the use of Coins or Products may be illegal or subject to regulation
+in certain jurisdictions, and it is your responsibility to ensure
+that you comply with the laws of any jurisdiction in which you use
+Coins or Products.
+
+17.     Limitation of Liability. You agree that, to the maximum
+extent permitted by applicable law, our aggregate liability arising
+from or related to these Terms or any of the Products in any manner
+will be limited to direct damages not to exceed the purchase price
+you have paid to us for such Products (excluding shipping charges
+and taxes). To the maximum extent permitted by applicable law, in
+no event shall we be liable for any consequential, incidental,
+indirect, special, punitive, or other damages whatsoever (including,
+without limitation, damages for loss of revenue, profits, or expected
+savings, business interruption, personal injury, loss of privacy,
+loss of data or information or other pecuniary or intangible loss)
+arising out of these Terms or the use of or inability to use any
+of our Products or Software, even if we foresee or have been advised
+of the possibility of such damages.
+
+18.     Applicability. The limitations, exclusions and disclaimers
+in these Terms shall apply irrespective of the nature of the cause
+of action, demand or claim, including but not limited to breach of
+contract, negligence, tort, or any other legal theory and shall
+survive a fundamental breach or breaches and/or failure of the
+essential purpose of these Terms or of any remedy contained herein.
+Because some jurisdictions do not allow some or all of the exclusions
+or limitations of liability set forth in these Terms, such limitations,
+exclusions and disclaimers may not apply to you.
+
+19.     Indemnification. You will indemnify and hold us, our
+affiliates, subcontractors, licensors and agents and our and their
+directors, offices, employees and representatives harmless from and
+against all damages arising from or related to: (a) your breach of
+these Terms; and (b) third party claims arising from or related to
+your acts, omissions or Transactions.
+
+20.     Assignment. Neither these Terms nor any of your rights or
+obligations under these Terms may be transferred or assigned by
+you, in whole or in part, whether voluntarily, by operation of law,
+or otherwise, without our prior written consent and any such attempted
+assignment or transfer shall be null and void. These Terms will
+enure to the benefit of and be binding upon the respective successors
+and permitted assigns of you and us. These Terms may be assigned
+by us in our sole discretion.
+
+21.     Legal Proceedings. You agree that all claims, disputes or
+disagreements of any nature whatsoever arising from or relating to
+these Terms, the Products, the Software or us (a "Dispute") will,
+at our sole option, be settled by final and binding arbitration by
+a single arbitrator pursuant to the Arbitration Act, 1991 (Ontario).
+Judgement upon the award rendered in any such arbitration may be
+entered in any court having jurisdiction thereof, or application
+may be made to such court for a judicial acceptance of the award
+and enforcement, as the law of such jurisdiction may require or
+allow. The arbitration will take place in the City of Toronto,
+Ontario, Canada and shall be conducted in English only. The arbitrator
+will: (a) not limit, expand or modify the terms of these Terms nor
+award damages in excess of compensatory damages permitted under
+these Terms, and you hereby waive any claim to such excess damages;
+(b) not have any ability to award any equitable remedies against
+us; (c) not have the right to award any damages in excess of damages
+that could lawfully be awarded by a court of competent jurisdiction
+and subject always to limitations and exclusions in these Terms;
+and (d) issue a written decision containing findings and conclusions
+on all significant issues. Each party will each bear its own expenses
+and an equal share of all costs and fees of the arbitration. All
+participants, each of whom will be bound by an appropriate
+confidentiality agreement, will hold the content and result of any
+arbitration in confidence. Notwithstanding the foregoing, you
+acknowledge and agree that irreparable injury may result to us if
+you breach any of the provisions in these Terms and that damages
+may be an inadequate remedy in respect of such breach. You hereby
+agree in advance that, in the event of such breach, we shall be
+entitled, in addition to such other remedies, damages and relief
+as may be available at law or in equity, to the granting of
+interlocutory and final injunctive relief. Any legal proceeding
+brought by you against us must be brought within one year after the
+event which is the subject of the proceeding has occurred. You agree
+to waive any right you may have to commence or participate in any
+class action against us in respect of any Dispute and further agree
+to opt out of any class proceedings against us.
+
+22.     Choice of Law. These Terms will be deemed to have been made
+and performed exclusively in the Province of Ontario, Canada and
+will be governed by and construed under the laws of the Province
+of Ontario without giving effect to Ontario's conflict of laws
+principles and without reference to the United Nations Convention
+on Contracts for the International Sale of Goods, the application
+of which is expressly excluded. You hereby irrevocably attorn to
+the exclusive jurisdiction of the courts of the Province of Ontario
+and Canada situated in the City of Toronto for any claim related
+to these Terms, the Products or Software that is not subject to
+arbitration arising from or in connection with these Terms and agree
+not to bring any action, claim, suit or proceeding against us, our
+affiliates or agents (or any officer, director, or employee thereof)
+in any jurisdiction other than the Province of Ontario.
+
+23.     Entire Agreement. These Terms constitutes the entire agreement
+between you and us with respect to the Products and Software and
+cancel and supersede any prior understandings and agreements between
+the parties hereto with respect thereto. There are no representations,
+warranties, terms, conditions, undertakings or collateral agreements,
+express, implied or statutory, between you and us other than as
+expressly set forth in this Agreement. You represent and warrant
+that you have not been induced to enter into these Terms by any
+other statement, representation or warranty not contained in these
+Terms. The headings in these Terms are for convenience of reference
+only and do not affect the construction or interpretation of these
+Terms.
+
+24.     Survival. Neither the expiration nor the earlier termination
+of your account will release you from any obligation or liability
+that accrued prior to such expiration or termination. The provisions
+of these Terms requiring performance or fulfilment after the
+expiration or earlier termination of your account and any other
+provisions hereof, the nature and intent of which is to survive
+termination or expiration, will survive.
+
+25.     Severability. To the extent that any provision of these
+Terms is declared by a court or other lawful authority of competent
+jurisdiction to be invalid, illegal or unenforceable: (a) such
+provision shall be severed and deleted or limited so as to give
+effect to the intent of the parties insofar as possible and both
+parties will use their best efforts to substitute a new provision
+of like economic intent and effect for the illegal, invalid or
+unenforceable provision, and the remainder of these Terms shall
+continue in full force and effect with respect to all other provisions;
+and (b) notwithstanding the foregoing, we reserve the right to
+terminate the order of any Products.
+
+26.     Amendments and Waivers. No modification, amendment, addition
+to or waiver of any rights, obligations or defaults by us shall be
+effective unless in writing and signed by one of our authorized
+signing officers. One or more waivers of any right, obligation or
+default shall be limited to the specific right, obligation or default
+waived and shall not be construed as a waiver of any subsequent
+right, obligation or default. No delay or failure by us in exercising
+any right hereunder and no partial or single exercise thereof shall
+be deemed of itself to constitute a waiver of such right or any
+other rights hereunder.
+
+27.     Notices. Except as expressly set out in these Terms, any
+demand, notice or other communication to be given to us shall be
+given in writing by mail to the following address: Coinkite Inc.,
+3219 Yonge St., Unit 376, Toronto, ON M4N 3S1 CANADA or to such
+other address as we may advise you of from time to time, including
+through our website. Any demand, notice or other communication to
+be given to you may be given by mail, fax or e-mail using the contact
+details we have on record or posted through to our website.
+
+_v. 1.0. Last revised 2016-05-01._
