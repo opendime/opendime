@@ -7,7 +7,7 @@ Pass 'em around!
 
 This is a copy of contents of an example Opendime unit running the latest version
 of the firmware. You can use this to look at how it works, and to read the 
-opensource code we provide.
+open-source code we provide.
 
 There are three states for an Opendime:
 
@@ -15,6 +15,8 @@ There are three states for an Opendime:
 - **Sealed** (normal; has a payment address)
 - **Un-Sealed** (private key is revealed; sweep your funds)
 
+Because there are major difference between version 1 and 2,
+they have been placed in different directories.
 
 ## How to view?
 
