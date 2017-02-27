@@ -1,4 +1,4 @@
-# DRAFT --- DRAFT --- DRAFT
+# DRAFT — DRAFT — DRAFT
 
 # Opendime Version 2 Security Features
 
@@ -30,8 +30,10 @@ We support python2 and python3 so any recent version should work fine.
 2) Install "libusb" so we can access USB devices directly. For MacOS,
 these are the steps:
 
-    - `brew install libusb`
-    - `pip install PyUSB`
+```
+brew install libusb
+pip install PyUSB
+```
 
 This step is optional, however, only the "light" verification of
 the basics can be done. To check the new security chip, we need
@@ -42,25 +44,29 @@ hardware. A small warning is shown if we can't do the extra checks.
 this step because if you don't have them, the code will download
 them as it runs, but that is slow and requires an Internet connection.
 
-    - `pip install pycoin`
-    - `pip install ecdsa`
+```
+pip install pycoin
+pip install ecdsa
+```
 
 We require version `0.76` or later for pycoin. Use `virtualenv`
 if you have something older already installed.
 
 4) Insert the Opendime device and run `trustme.py` from the `advanced` directory:
 
-    - `cd /Volumes/OPENDIME/advanced`
-    - `python trustme.py`
+```
+cd /Volumes/OPENDIME/advanced
+python trustme.py
+```
 
 5) Wait and read the output of the program. It takes a few seconds
 and prints progress as it runs.  If anything goes wrong, it prints a
 large error message to attract your attention.
 
+
 ### Example Output
 
-Here's what it will look like for a typical device (all of the
-numbers will be different for your case, of course):
+Here's what it should look like for a typical device (numbers will differ):
 
 ```
 % cd /Volumes/OPENDIME/advanced
@@ -109,7 +115,9 @@ you know is good because you bought it.
 To test between two units, provide the path to the *other* Opendime
 as the first argument:
 
-    - `python trustme.py /Volumes/OPENDIME\ 2`
+```
+python trustme.py /Volumes/OPENDIME\ 2
+```
 
 If you don't have a trusted Opendime, you can checkout the code
 from the [Opendime github repo](https://github.com/opendime/opendime)
