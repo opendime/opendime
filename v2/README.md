@@ -2,7 +2,7 @@
 ## Version 2 Opendime
 
 In the new version of the hardware (now with layard hole) we've added another
-chip which support some anti-counterfieting features.
+chip which support some anti-counterfeiting features.
 
 To understand how that works, you should read the
 [technical white paper here](opendime-trust-features.md)
