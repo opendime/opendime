@@ -13,7 +13,7 @@ The other files here are an example of what a V2 Opendime's filesystem looks lik
 ## PRE-RELEASE / Draft
 
 Both the white paper and these images are not yet final, however, we consider
-this verison to be the "release candidate".
+this version to be the "release candidate".
 
 ```
 2.0.0 time=20170227.113404 git=v2@a44f83a
