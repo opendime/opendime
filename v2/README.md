@@ -16,10 +16,15 @@ Both the white paper and these images are not yet final, however, we consider
 this version to be the "release candidate".
 
 ```
-2.0.0 time=20170227.113404 git=v2@a44f83a
+2.0.0 time=20170302.104741 git=v2@029526e
 ```
 
-                                        
+With checksum:
+
+```
+04ea97186f9b61a5b8bf22188d58aac6866454dc8ebb6501a29f604d9aa8cf8e
+```
+
 
 ## Example `trustme.py` Output
 
