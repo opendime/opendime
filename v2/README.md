@@ -1,25 +1,23 @@
 
 ## Version 2 Opendime
 
-In the new version of the hardware (now with layard hole) we've added another
+In the new version of the hardware (now with layard hole), we've added another
 chip which support some anti-counterfeiting features.
 
 To understand how that works, you should read the
 [technical white paper here](opendime-trust-features.md)
 
-The other files here are an example of what a V2 Opendime's filesystem looks like.
+The other files here are an example of what a V2 Opendime's filesystem
+looks like, at each stage of it's lifecycle.
 
-
-## PRE-RELEASE / Draft
-
-Both the white paper and these images are not yet final, however, we consider
-this version to be the "release candidate".
+Specifically, these files were copied from a sample unit running
+version 2.0.0 of the firmware:
 
 ```
 2.0.0 time=20170302.104741 git=v2@029526e
 ```
 
-With checksum:
+With SHA256 checksum:
 
 ```
 04ea97186f9b61a5b8bf22188d58aac6866454dc8ebb6501a29f604d9aa8cf8e
@@ -34,31 +32,31 @@ Downloading pycoin (wait)...
 
 Opendime USB at: /Volumes/OPENDIME
 
- Wallet address: 1E7WUNVtXRLt15tG1JnAPue4YGgVC5oPHA
+ Wallet address: 1E8t4b3bSoVPGPW84D2i8pJs3ckK6fuRaH
 
 
 Opendime Version: 2.0.0
 
-      time: 20170227.113404
-       git: v2@a44f83a
-    serial: 5NXBX5CUJVGVCIBAEBDTSGYK74+b134e591d2ba
+      time: 20170302.104741
+       git: v2@029526e
+    serial: 4QR6SUSUJVGVCIBAEBDTIHQK74+c5adbafe8b3d
 
 Additional low-level checks:
   - correct virtual disk geometry
   - read-back over USB EP0 correct
-  - good bitcoin message signing #1: 0d6e6a450f78
-  - good bitcoin message signing #2: 2ffb105d2dc8
-  - good bitcoin message signing #3: 0ff201d09e4b
-  - good bitcoin message signing #4: edc9a55c0572
-  - good bitcoin message signing #5: 2bf5a43eb25f
+  - good bitcoin message signing #1: 7046e4111e01
+  - good bitcoin message signing #2: 232339010525
+  - good bitcoin message signing #3: 3b3108f30eb2
+  - good bitcoin message signing #4: 865650a40f63
+  - good bitcoin message signing #5: 4ee9f87c6c07
   - genuine per-unit factory certificate verified
-  - good anti-counterfeiting test #1: b1bbc2265d5d
-  - good anti-counterfeiting test #2: 06305607a781
-  - good anti-counterfeiting test #3: 876900cdb225
-  - good anti-counterfeiting test #4: 6a21f41e453f
-  - good anti-counterfeiting test #5: 3981e8a49a88
+  - good anti-counterfeiting test #1: dea6578c99ca
+  - good anti-counterfeiting test #2: 98b1311f04ae
+  - good anti-counterfeiting test #3: 298a2377af1b
+  - good anti-counterfeiting test #4: dd05d858f858
+  - good anti-counterfeiting test #5: ede300dff9fb
 
 Looks good!
 
-1E7WUNVtXRLt15tG1JnAPue4YGgVC5oPHA
+1E8t4b3bSoVPGPW84D2i8pJs3ckK6fuRaH
 ```
