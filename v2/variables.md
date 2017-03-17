@@ -63,3 +63,10 @@ va | Bitcoin signature over a nonce, same as `sealed/advanced/verify2.txt`
 "va": "nonce:de4d7305d43ff42121f0c4f7|1E8t4b3bSoVPGPW84D2i8pJs3ckK6fuRaH|Gzuis4coo2yxlN9QXBwb-rJzcJNitJUyBvIGexUP95yw-url5YObNITjP6320pGJVB0UBboDjBNWLqsfWuMvFXY|U"           
 }
 ```
+
+
+# History
+
+Version 1 devices did not have fields `ae` and `sn`, and when factory fresh, did not
+have any `variables.json` file at all.
+
