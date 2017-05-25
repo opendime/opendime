@@ -15,21 +15,23 @@ we support for EP0.
 - to read, do an IN: `bmRequestType=0xc0`, `bRequest=0`, `wValue=command_code`,
   data should be big enough, perhaps 2k max. Command codes are binary values
   starting at one.
-- command which are inappropriate for current state of device will fail
+- commands which are inappropriate for current state of device will fail
 
 ## "IN" Transfers (get value)
 
 CODE | Description
 -----|------------
-1 | Secret exponent (if unsealed)
-2 | WIF version of private key (if unsealed)
-3 | Bitcoin payment address (if set yet)
-4 | Result of previous signature request (`m` or `f`), 65 or 96 bytes
-5 | Firmware checksum (32 bytes)
-6 | Firmware version as a string
-7 | Readback unit x.509 certificate `unit.crt`
-8 | Serial number of ATECC508A chip (6 bytes)
-9 | Readback number of bytes entropy so far (unsigned LE32)
+ 1 | Secret exponent (if unsealed)
+ 2 | WIF version of private key (if unsealed)
+ 3 | Bitcoin payment address (if set yet)
+ 4 | Result of previous signature request (`m` or `f`), 65 or 96 bytes
+ 5 | Firmware checksum (32 bytes)
+ 6 | Firmware version as a string
+ 7 | Readback unit x.509 certificate `unit.crt`
+ 8 | Serial number of ATECC508A chip (6 bytes)
+ 9 | Readback number of bytes entropy so far (unsigned LE32)
+10 | Readback version string (same as `version.txt` file)
+11 | Readback `chain.crt` file (use wIndex to interate over 512 byte blocks)
 
 ## "OUT" Transfers (set value)
 

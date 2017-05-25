@@ -22,6 +22,7 @@ ae | Serial number for ATECC508A chip (hex, lower case)
 ex | Secret exponent; equivilent to pk value
 on | Opendime nonce: see `advanced/rngverify.py` for background
 va | Bitcoin signature over a nonce, same as `sealed/advanced/verify2.txt`
+vn | Version number (only on `2.1.0` and later)
 
 
 # Examples
@@ -31,7 +32,8 @@ va | Bitcoin signature over a nonce, same as `sealed/advanced/verify2.txt`
 ```javascript
 {
 "sn": "4QR6SUSUJVGVCIBAEBDTIHQK74",
-"ae": "c5adbafe8b3d"
+"ae": "c5adbafe8b3d",
+"vn": "2.1.0"  
 }
 ```
 

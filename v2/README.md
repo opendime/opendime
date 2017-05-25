@@ -2,12 +2,12 @@
 ## Version 2 Opendime
 
 In the new version of the hardware (now with layard hole), we've added another
-chip which support some anti-counterfeiting features.
+chip which supports certain anti-counterfeiting features.
 
 To understand how that works, you should read the
-[technical white paper here](opendime-trust-features.md)
+[technical white paper here](../whitepapers/opendime-trust-features.md)
 
-The other files here are an example of what a V2 Opendime's filesystem
+The files here are an example of what a V2 Opendime's filesystem
 looks like, at each stage of it's lifecycle.
 
 Specifically, these files were copied from a sample unit running
