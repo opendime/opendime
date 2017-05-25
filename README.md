@@ -45,7 +45,7 @@ python rngverify.py ../../entropy.bin
 ```
 
 Of course, you should also contemplate the python
-code in [`rngverify.py`](unsealed/advanced/rngverify.py)
+code in [`rngverify.py`](v2.1/unsealed/advanced/rngverify.py)
 ... but it's pretty simple and only 75 lines.
 
 
