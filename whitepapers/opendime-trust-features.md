@@ -1,5 +1,3 @@
-# DRAFT — DRAFT — DRAFT
-
 # Opendime Version 2 Security Features
 
 ## How it works and why trust it
