@@ -1,0 +1,106 @@
+<!doctype html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="support/pure-base-min.css" />
+  <link rel="stylesheet" href="support/style.css" />
+<title>Opendime Setup</title>
+</head>
+<body>
+<div class="lang-picker"><a href="#" onclick='picklang("zh")'>中文</a>
+   &bullet; <a href="#" onclick='picklang("ja")'>日本語</a>
+   &bullet; <a href="#" onclick='picklang("en")'>English</a>                             
+   &bullet; <a href="#" onclick='picklang("pt")'>Portuguese</a>
+   <br> <a href="#" onclick='picklang("fr")'>Français</a>
+   &bullet; <a href="#" onclick='picklang("de")'>Deutsch</a>
+   &bullet; <a href="#" onclick='picklang("ru")'>Русский</a>
+  </div><h1>
+    <a href="https://opendime.com/usb"><img class="logo" src="support/opendime.png"></a>
+    <span class="usb">USB</span>
+</h1>
+
+<p data-xl="new-msg" style="margin-bottom: 40px; margin-top: 48px; font-size: 1.3em">                                
+Your Opendime&trade; is new and unused.
+<br/>Follow these steps to pick a private key.
+</p>
+
+<ol data-xl="steps" class="steps">
+    <li> By using Opendime you agree to our <a href="support/terms.txt">Terms of Sale and Use.</a></li>
+	<li> Open your File Explorer and look for <code>OPENDIME</code> drive
+			(on MacOS <code>/Volumes/OPENDIME</code>).</li>
+	<li> Copy files onto OPENDIME until at least of 256K bytes have been saved.</li>
+	<li>                                                                       Once that total is reached you will see the light blinking quickly,
+		 and the device will eject by itself. Ignore the system warning.</li>
+	<li> <a href="javascript:history.go(0)">Reload this page</a> to see your new Bitcoin address!</li>
+	<li> If you end up here again, just add more files onto this drive.</li>
+</ol>
+
+<h3 data-xl="notes">Notes</h3>
+<ul data-xl="setup-notes">
+	<li> Doesn't matter what the files are. They won't be saved.</li>
+	<li> One or two photos is usually enough.</li>
+	<li>             All the randomness from those files goes into the random number generator.</li>
+	<li> Get random bits from 
+        <a href="https://www.random.org/cgi-bin/randbyte?nbytes=16384&format=f">random.org</a></li>
+	<li> Advanced users can copy from <tt>/dev/urandom</tt></li>
+</ul>
+
+<script>                                                                                                                                                                                                                                  
+window.alert(
+
+  "BY USING Opendime™ YOU AGREE TO OUR TERMS OF USE.\n\n"+
+
+  "通过使用 Opendime™，您同意我们的使用条款。\n\n"+
+
+  "Opendime™ を使用することで、当社の利用規約に同意したものとみなします。\n\n"+
+
+  "USANDO Opendime™ VOCÊ CONCORDA COM NOSSOS TERMOS DE USO.\n\n"+
+
+  "EN UTILISANT Opendime™ VOUS ACCEPTEZ NOS CONDITIONS D'UTILISATION.\n\n"+
+
+  "DURCH DIE BENUTZUNG VON Opendime™ STIMMST DU UNSEREN NUTZUNGSBEDINGUNGEN ZU.\n\n"+
+
+              "ИСПОЛЬЗУЯ Opendime™, ВЫ СОГЛАШАЕТЕСЬ С НАШИМИ ПРАВИЛАМИ ПОЛЬЗОВАНИЯ\n\n"+
+
+
+  "\n\nhttps://opendime.com/legal\n\n"
+);
+</script>
+<h3 data-xl="more-info">More Information</h3>
+<p>
+<a class="button" href="README.txt">README.txt</a>
+<a class="button" data-xl="buy-more"
+        href="https://opendime.com/buy">Buy more OPENDIME</a>
+<br>
+<a class="button" data-xl="legal"
+        href="https://opendime.com/legal">Legal</a>                                       
+<a class="button" data-xl="learn-more"
+        href="https://opendime.com/usb">Learn more at opendime.com</a>
+<br>
+<br>
+<br>
+</p>
+<small data-xl="copyright" title="Version: 2.2.0"  >
+Copyright &copy; 2016-2017 <a href="https://coinkite.com">Coinkite</a> Inc. All rights reserved.
+<br/>
+By using Opendime you agree to our <a href="support/terms.txt">Terms of Sale and Use.</a>
+</small>
+</body>
+
+<script>                                                                                                             
+function picklang(lang) {
+    var els = document.querySelectorAll('[data-xl]');
+    var xls = window.translations || {};
+
+    var saveit = !xls['en'];
+    if(saveit) xls['en'] = {};
+
+    Array.prototype.forEach.call(els, function(el, idx){
+        var tkey = el.getAttribute('data-xl');
+        if(saveit) xls['en'][tkey] = el.innerHTML;
+        el.innerHTML = xls[lang][tkey] || xls['en'][tkey];
+  });
+}
+</script>
+<script src="support/translations.js"></script>

@@ -1,0 +1,12 @@
+-----BEGIN BITCOIN SIGNED MESSAGE-----
+Nonce: bf02482af54dca4d4ae0dd11  Serial: SPX6ESSUJVGVCIBAEBDTMDAK74
+Version: 2.2.0 time=20170721.115213 git=v3@d0c4b54
+-----BEGIN SIGNATURE-----
+1PCejtxqj92B5bn3nqP6dp1jjybS3iGD6a
+G9YqJfsYuhvfw92cY01Mede/xrCcNoKU+srzDe0oQIUICH0Q2OLNKh6GMvSRmGAp9tZ2MVvyVP/yDeiVaA7BL/Y=
+-----END BITCOIN SIGNED MESSAGE-----
+
+
+                                                                    
+                                                                    
+              
