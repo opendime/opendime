@@ -23,7 +23,7 @@ CODE | Description
 -----|------------
  1 | Secret exponent (if unsealed)
  2 | WIF version of private key (if unsealed)
- 3 | Bitcoin payment address (if set yet)
+ 3 | Payment address (if set yet)
  4 | Result of previous signature request (`m` or `f`), 65 or 96 bytes
  5 | Firmware checksum (32 bytes)
  6 | Firmware version as a string
@@ -32,16 +32,17 @@ CODE | Description
  9 | Readback number of bytes entropy so far (unsigned LE32)
 10 | Readback version string (same as `version.txt` file)
 11 | Readback `chain.crt` file (use wIndex to interate over 512 byte blocks)
+12 | Readback 'BTC' or 'LTC' or other some code for currency of device (v2.3+)
 
 ## "OUT" Transfers (set value)
 
 CODE | Expects | Description
 -----|---------|------------
-`m`  | 32 bytes| Starts the bitcoin message-signing process (get result with 4)
+`m`  | 32 bytes| Starts the bitcoin-style message-signing process (get result with 4)
 `f`  | 20 bytes| Starts signature process in ATECC508A (get result with 4)
 `E`  | n/a     | Simulate a USB hotplug to reset port
 `e`  | 32 or 0 | Add 32 bytes of entropy, or reset process with 0 length transfer
-`s`  | none    | Perform self-test, indicate result on LED's (unit must not have bitcoin key)
+`s`  | none    | Perform self-test, indicate result on LED's (unit must not have payment address)
 `r`  | none    | Make LED go solid red.
 `o`  | none    | Restore normal LED operation.
 
