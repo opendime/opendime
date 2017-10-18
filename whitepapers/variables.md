@@ -23,6 +23,7 @@ ex | Secret exponent; equivalent to pk value
 on | Opendime nonce: see `advanced/rngverify.py` for background
 va | Bitcoin signature over a nonce, same as `sealed/advanced/verify2.txt`
 vn | Version number (only on `2.1.0` and later)
+ct | Coin type (BTC, LTC, etc) (only on `2.3.0` and later, assume BTC otherwise)
 
 
 # Examples
