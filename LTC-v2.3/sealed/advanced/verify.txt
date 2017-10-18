@@ -1,0 +1,11 @@
+-----BEGIN LITECOIN SIGNED MESSAGE-----
+Nonce: 08a1ca40d6a3e5b704c4da88  Serial: ESMLHKKSLFFVASRRFYYD6KYE74
+Version: 2.3.0 time=20171018.143523 git=master@8fb7cfd coin=LTC
+-----BEGIN SIGNATURE-----
+Laj1Gfg7VeZgxmzSNqS7evdPUhrkR4kSAt
+HBT3N4ST2NKqyIS9xEhPI04FxAvYqKJ3lOlGqxzSOj+I422MJP4opddUyCaUXqgUT4V0jnt0phz2WAFqfU2P0PY=
+-----END LITECOIN SIGNED MESSAGE-----
+
+
+                                                                    
+                                                                    
