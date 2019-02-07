@@ -1,0 +1,12 @@
+-----BEGIN BITCOIN SIGNED MESSAGE-----
+UNSEALED -- UNSEALED -- UNSEALED
+Nonce: cd81c025e4919feab1c013dd  Serial: JETJEECBIZIFCIBAEBGDGBIU74
+Version: 2.4.0 time=20190207.130255 git=master@e233940e coin=BTC
+-----BEGIN SIGNATURE-----
+1P431tezawsLq7ZDPqfp8CnGGKxuYpLTKR
+G7WR/PjOQjaCUC9i2Nl6+V9ozEc7MrxuOJ1tq/bIVPADKtMfj8wQ0H32DgASptJ1DiQBpaJiS4yNzziFZQwzvXs=
+-----END BITCOIN SIGNED MESSAGE-----
+
+
+                                                                    
+                                    
