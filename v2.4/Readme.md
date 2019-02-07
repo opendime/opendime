@@ -9,7 +9,6 @@ version 2.4.0 of the firmware:
 
 ```
 2.4.0 time=20190207.130255 git=master@e233940e coin=BTC
-                          
 ```
 
 With SHA256 checksum:
@@ -22,9 +21,9 @@ With SHA256 checksum:
 
 - if the user's browser is set for language we have a translation for, we'll show that instead of English (can still override)
 - blockchain explorers updated: Blocktrail removed, BC.i becomes BC.com, add Blockstream
-- copyright changed to 2016-2019. added (R) to Opendime logo (we are registered now)
-- changes to match v4 hardware
-- `version.txt` now includes `coin=BTC` as a value
+- copyright changed to 2016-2019, added (R) to Opendime logo (it is registered now)
+- changes to match v4 hardware, with "Legal Tender" text on it
+- `version.txt` now includes `coin=BTC` for more certainty
 - `chain.crt` has certificate chain for "Batch #4" from the factory
 
 
@@ -67,10 +66,11 @@ Looks good!
 ## Example `rngverify.py` Output
 
 The entropy used to pick the key was recorded in `entropy.bin`
-and can be verified using `unsealed/advanced/rngverify.py`.
+and can be verified using the code in:
+`unsealed/advanced/rngverify.py`
 
 ```
-% ./advanced/rngverify.py entropy.bin 
+% ./unsealed/advanced/rngverify.py entropy.bin
 
 STEP1: Secret exponent is hash of things we expected (good).
 
