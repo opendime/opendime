@@ -587,8 +587,9 @@ covers the values they would want to modify.
 
 - Without also cracking the main micro, nothing is gained. Even if
 they could read out all the secret values, they would gain only the
-pairing secret and private key for a single Opendime. It gives them
-nothing useful for other units.
+pairing secret and private key contained in the certificate offa single Opendime.
+It gives them nothing useful for other units, and wouldn't even allow
+access to the funds on that Opendime.
 
 #### What if the attackers completely replaced the main micro firmware?
 
@@ -635,7 +636,7 @@ Since any _real hacker_ will discover the following in a few minutes,
 we can share this information:
 
 - the i2c bus between the main micro and the ATECC508a comes out to the rear test pads.
-- anyone with a i2c bus monitor and the public-domain ATSHA204A datasheet could follow along.
+- anyone with a i2c bus monitor and the public ATECC508A datasheet could follow along.
 - someone with a little patience could send their own commands to the security chip,
     and read the (public) data slots and configuration values.
 - so everything we claim in this document could be proven, if one was properly motivated.
