@@ -1,0 +1,12 @@
+135,141c135,138
+<     x = subprocess.check_output(['openssl', 'x509', '-in', unit, '-noout', '-subject', '-nameopt', 'sep_comma_plus_space', '-nameopt', 'dn_rev'  ])
+<     subj = B2A(x).split(',')[1]
+<     sn_offered = subj.split('=')[1]
+<     sn_expected = expect['sn'] + "+" + expect['ae']
+<     if sn_offered.rstrip() != sn_expected:
+<         fail("Certificate is for some other unit: " + sn_offered.rstrip())
+---
+>     x = subprocess.check_output(['openssl', 'x509', '-in', unit, '-noout', '-subject' ])
+>     subj = B2A(x).split('/')[1]
+>     if subj != 'serialNumber=' + expect['sn'] + '+' + expect['ae']:
+>         fail("Certificate is for some other unit: " + subj)

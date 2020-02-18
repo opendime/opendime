@@ -27,5 +27,6 @@
 # - You may inspect the code by unzipping support/pycode.zip 
 #   It makes use of pycoin and ecdsa modules, which it downloads as needed.
 #
-import os, sys; sys.path.insert(0, os.path.normpath(__file__ + '/../../support/pycode.zip'))
+import os, sys; sys.path.insert(0, os.path.normpath(__file__ + '/../../support/'))
+print(sys.path)
 import pycode.trust_me; pycode.trust_me.main()
