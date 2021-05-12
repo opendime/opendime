@@ -68,17 +68,15 @@ qrcode.jpg      - QR image of the payment address or private key
 README.txt      - this file that you are reading right now
 
 advanced/       - (directory) more technical data and files...
+  chain.crt       - X.509 certificate chain back to Opendime factory CA
   checksum.txt    - SHA256 of the firmware being used on this Opendime
+  rngverify.py    - python program used to verify we are honestly generating the private key
+  trustme.py      - python program which verifies authenticity of this unit, or another
+  unit.crt        - X.509 certificate for this particular Opendime
+  variables.json  - JSON file of the address and other values for this opendime
   verify.txt      - longer signed message, for verification of private key
   verify2.txt     - shorter signed message, which is easier to cut-n-paste into other tools
-  balance.py      - python program that can display current balance and remove funds
-  trustme.py      - python program which verifies authenticity of this unit, or another
-  rngverify.py    - python program used to verify we are honestly generating the private key
-  variables.json  - JSON file of the address and other values for this opendime
   version.txt     - date/time and version number of the firmware
-  checksum.txt    - SHA256 checksum of the firmware
-  chain.crt       - X.509 certificate chain back to Opendime factory CA
-  unit.crt        - X.509 certificate for this particular Opendime
 
 support/        - (directory) supporting files that aren't interesting
 DCIM/           - (directory) hidden directory to support iPad usage (ignore)
