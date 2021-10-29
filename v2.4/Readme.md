@@ -2,7 +2,7 @@
 ## Version 2.4 Opendime Sample
 
 The files here are an example of what a V2.4.0 Opendime's filesystem
-looks like, at each stage of it's lifecycle.
+looks like, at each stage of its lifecycle.
 
 Specifically, these files were copied from a sample unit running
 version 2.4.0 of the firmware:
